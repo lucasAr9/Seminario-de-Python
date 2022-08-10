@@ -1,0 +1,681 @@
+[
+    {
+        "nombre": "Ivysaur",
+        "tipo": "Grass",
+        "generacion": "1",
+        "ataque": "62",
+        "defensa": "63"
+    },
+    {
+        "nombre": "Venusaur",
+        "tipo": "Grass",
+        "generacion": "1",
+        "ataque": "82",
+        "defensa": "83"
+    },
+    {
+        "nombre": "VenusaurMega Venusaur",
+        "tipo": "Grass",
+        "generacion": "1",
+        "ataque": "100",
+        "defensa": "123"
+    },
+    {
+        "nombre": "CharizardMega Charizard Y",
+        "tipo": "Fire",
+        "generacion": "1",
+        "ataque": "104",
+        "defensa": "78"
+    },
+    {
+        "nombre": "Squirtle",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "48",
+        "defensa": "65"
+    },
+    {
+        "nombre": "Wartortle",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "63",
+        "defensa": "80"
+    },
+    {
+        "nombre": "BlastoiseMega Blastoise",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "103",
+        "defensa": "120"
+    },
+    {
+        "nombre": "Caterpie",
+        "tipo": "Bug",
+        "generacion": "1",
+        "ataque": "30",
+        "defensa": "35"
+    },
+    {
+        "nombre": "Metapod",
+        "tipo": "Bug",
+        "generacion": "1",
+        "ataque": "20",
+        "defensa": "55"
+    },
+    {
+        "nombre": "Butterfree",
+        "tipo": "Bug",
+        "generacion": "1",
+        "ataque": "45",
+        "defensa": "50"
+    },
+    {
+        "nombre": "Kakuna",
+        "tipo": "Bug",
+        "generacion": "1",
+        "ataque": "25",
+        "defensa": "50"
+    },
+    {
+        "nombre": "BeedrillMega Beedrill",
+        "tipo": "Bug",
+        "generacion": "1",
+        "ataque": "150",
+        "defensa": "40"
+    },
+    {
+        "nombre": "Sandshrew",
+        "tipo": "Ground",
+        "generacion": "1",
+        "ataque": "75",
+        "defensa": "85"
+    },
+    {
+        "nombre": "Sandslash",
+        "tipo": "Ground",
+        "generacion": "1",
+        "ataque": "100",
+        "defensa": "110"
+    },
+    {
+        "nombre": "Nidoran\u2640",
+        "tipo": "Poison",
+        "generacion": "1",
+        "ataque": "47",
+        "defensa": "52"
+    },
+    {
+        "nombre": "Nidorina",
+        "tipo": "Poison",
+        "generacion": "1",
+        "ataque": "62",
+        "defensa": "67"
+    },
+    {
+        "nombre": "Nidoking",
+        "tipo": "Poison",
+        "generacion": "1",
+        "ataque": "102",
+        "defensa": "77"
+    },
+    {
+        "nombre": "Clefairy",
+        "tipo": "Fairy",
+        "generacion": "1",
+        "ataque": "45",
+        "defensa": "48"
+    },
+    {
+        "nombre": "Clefable",
+        "tipo": "Fairy",
+        "generacion": "1",
+        "ataque": "70",
+        "defensa": "73"
+    },
+    {
+        "nombre": "Oddish",
+        "tipo": "Grass",
+        "generacion": "1",
+        "ataque": "50",
+        "defensa": "55"
+    },
+    {
+        "nombre": "Gloom",
+        "tipo": "Grass",
+        "generacion": "1",
+        "ataque": "65",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Vileplume",
+        "tipo": "Grass",
+        "generacion": "1",
+        "ataque": "80",
+        "defensa": "85"
+    },
+    {
+        "nombre": "Primeape",
+        "tipo": "Fighting",
+        "generacion": "1",
+        "ataque": "105",
+        "defensa": "60"
+    },
+    {
+        "nombre": "Arcanine",
+        "tipo": "Fire",
+        "generacion": "1",
+        "ataque": "110",
+        "defensa": "80"
+    },
+    {
+        "nombre": "AlakazamMega Alakazam",
+        "tipo": "Psychic",
+        "generacion": "1",
+        "ataque": "50",
+        "defensa": "65"
+    },
+    {
+        "nombre": "Machoke",
+        "tipo": "Fighting",
+        "generacion": "1",
+        "ataque": "100",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Machamp",
+        "tipo": "Fighting",
+        "generacion": "1",
+        "ataque": "130",
+        "defensa": "80"
+    },
+    {
+        "nombre": "Victreebel",
+        "tipo": "Grass",
+        "generacion": "1",
+        "ataque": "105",
+        "defensa": "65"
+    },
+    {
+        "nombre": "Golem",
+        "tipo": "Rock",
+        "generacion": "1",
+        "ataque": "120",
+        "defensa": "130"
+    },
+    {
+        "nombre": "Rapidash",
+        "tipo": "Fire",
+        "generacion": "1",
+        "ataque": "100",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Magnemite",
+        "tipo": "Electric",
+        "generacion": "1",
+        "ataque": "35",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Magneton",
+        "tipo": "Electric",
+        "generacion": "1",
+        "ataque": "60",
+        "defensa": "95"
+    },
+    {
+        "nombre": "Dodrio",
+        "tipo": "Normal",
+        "generacion": "1",
+        "ataque": "110",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Seel",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "45",
+        "defensa": "55"
+    },
+    {
+        "nombre": "Dewgong",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "70",
+        "defensa": "80"
+    },
+    {
+        "nombre": "Muk",
+        "tipo": "Poison",
+        "generacion": "1",
+        "ataque": "105",
+        "defensa": "75"
+    },
+    {
+        "nombre": "GengarMega Gengar",
+        "tipo": "Ghost",
+        "generacion": "1",
+        "ataque": "65",
+        "defensa": "80"
+    },
+    {
+        "nombre": "Krabby",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "105",
+        "defensa": "90"
+    },
+    {
+        "nombre": "Voltorb",
+        "tipo": "Electric",
+        "generacion": "1",
+        "ataque": "30",
+        "defensa": "50"
+    },
+    {
+        "nombre": "Electrode",
+        "tipo": "Electric",
+        "generacion": "1",
+        "ataque": "50",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Exeggcute",
+        "tipo": "Grass",
+        "generacion": "1",
+        "ataque": "40",
+        "defensa": "80"
+    },
+    {
+        "nombre": "Cubone",
+        "tipo": "Ground",
+        "generacion": "1",
+        "ataque": "50",
+        "defensa": "95"
+    },
+    {
+        "nombre": "Hitmonlee",
+        "tipo": "Fighting",
+        "generacion": "1",
+        "ataque": "120",
+        "defensa": "53"
+    },
+    {
+        "nombre": "Hitmonchan",
+        "tipo": "Fighting",
+        "generacion": "1",
+        "ataque": "105",
+        "defensa": "79"
+    },
+    {
+        "nombre": "Lickitung",
+        "tipo": "Normal",
+        "generacion": "1",
+        "ataque": "55",
+        "defensa": "75"
+    },
+    {
+        "nombre": "Koffing",
+        "tipo": "Poison",
+        "generacion": "1",
+        "ataque": "65",
+        "defensa": "95"
+    },
+    {
+        "nombre": "Rhyhorn",
+        "tipo": "Ground",
+        "generacion": "1",
+        "ataque": "85",
+        "defensa": "95"
+    },
+    {
+        "nombre": "Horsea",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "40",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Seadra",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "65",
+        "defensa": "95"
+    },
+    {
+        "nombre": "Staryu",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "45",
+        "defensa": "55"
+    },
+    {
+        "nombre": "Starmie",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "75",
+        "defensa": "85"
+    },
+    {
+        "nombre": "Mr. Mime",
+        "tipo": "Psychic",
+        "generacion": "1",
+        "ataque": "45",
+        "defensa": "65"
+    },
+    {
+        "nombre": "Scyther",
+        "tipo": "Bug",
+        "generacion": "1",
+        "ataque": "110",
+        "defensa": "80"
+    },
+    {
+        "nombre": "Tauros",
+        "tipo": "Normal",
+        "generacion": "1",
+        "ataque": "100",
+        "defensa": "95"
+    },
+    {
+        "nombre": "Magikarp",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "10",
+        "defensa": "55"
+    },
+    {
+        "nombre": "Gyarados",
+        "tipo": "Water",
+        "generacion": "1",
+        "ataque": "125",
+        "defensa": "79"
+    },
+    {
+        "nombre": "Flareon",
+        "tipo": "Fire",
+        "generacion": "1",
+        "ataque": "130",
+        "defensa": "60"
+    },
+    {
+        "nombre": "Porygon",
+        "tipo": "Normal",
+        "generacion": "1",
+        "ataque": "60",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Kabuto",
+        "tipo": "Rock",
+        "generacion": "1",
+        "ataque": "80",
+        "defensa": "90"
+    },
+    {
+        "nombre": "Aerodactyl",
+        "tipo": "Rock",
+        "generacion": "1",
+        "ataque": "105",
+        "defensa": "65"
+    },
+    {
+        "nombre": "AerodactylMega Aerodactyl",
+        "tipo": "Rock",
+        "generacion": "1",
+        "ataque": "135",
+        "defensa": "85"
+    },
+    {
+        "nombre": "Snorlax",
+        "tipo": "Normal",
+        "generacion": "1",
+        "ataque": "110",
+        "defensa": "65"
+    },
+    {
+        "nombre": "Moltres",
+        "tipo": "Fire",
+        "generacion": "1",
+        "ataque": "100",
+        "defensa": "90"
+    },
+    {
+        "nombre": "Dragonite",
+        "tipo": "Dragon",
+        "generacion": "1",
+        "ataque": "134",
+        "defensa": "95"
+    },
+    {
+        "nombre": "Mewtwo",
+        "tipo": "Psychic",
+        "generacion": "1",
+        "ataque": "110",
+        "defensa": "90"
+    },
+    {
+        "nombre": "MewtwoMega Mewtwo Y",
+        "tipo": "Psychic",
+        "generacion": "1",
+        "ataque": "150",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Chikorita",
+        "tipo": "Grass",
+        "generacion": "2",
+        "ataque": "49",
+        "defensa": "65"
+    },
+    {
+        "nombre": "Bayleef",
+        "tipo": "Grass",
+        "generacion": "2",
+        "ataque": "62",
+        "defensa": "80"
+    },
+    {
+        "nombre": "Ledyba",
+        "tipo": "Bug",
+        "generacion": "2",
+        "ataque": "20",
+        "defensa": "30"
+    },
+    {
+        "nombre": "Ledian",
+        "tipo": "Bug",
+        "generacion": "2",
+        "ataque": "35",
+        "defensa": "50"
+    },
+    {
+        "nombre": "Cleffa",
+        "tipo": "Fairy",
+        "generacion": "2",
+        "ataque": "25",
+        "defensa": "28"
+    },
+    {
+        "nombre": "Togepi",
+        "tipo": "Fairy",
+        "generacion": "2",
+        "ataque": "20",
+        "defensa": "65"
+    },
+    {
+        "nombre": "Togetic",
+        "tipo": "Fairy",
+        "generacion": "2",
+        "ataque": "40",
+        "defensa": "85"
+    },
+    {
+        "nombre": "Ampharos",
+        "tipo": "Electric",
+        "generacion": "2",
+        "ataque": "75",
+        "defensa": "85"
+    },
+    {
+        "nombre": "Bellossom",
+        "tipo": "Grass",
+        "generacion": "2",
+        "ataque": "80",
+        "defensa": "95"
+    },
+    {
+        "nombre": "Marill",
+        "tipo": "Water",
+        "generacion": "2",
+        "ataque": "20",
+        "defensa": "50"
+    },
+    {
+        "nombre": "Azumarill",
+        "tipo": "Water",
+        "generacion": "2",
+        "ataque": "50",
+        "defensa": "80"
+    },
+    {
+        "nombre": "Sudowoodo",
+        "tipo": "Rock",
+        "generacion": "2",
+        "ataque": "100",
+        "defensa": "115"
+    },
+    {
+        "nombre": "Hoppip",
+        "tipo": "Grass",
+        "generacion": "2",
+        "ataque": "35",
+        "defensa": "40"
+    },
+    {
+        "nombre": "Skiploom",
+        "tipo": "Grass",
+        "generacion": "2",
+        "ataque": "45",
+        "defensa": "50"
+    },
+    {
+        "nombre": "Jumpluff",
+        "tipo": "Grass",
+        "generacion": "2",
+        "ataque": "55",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Slowking",
+        "tipo": "Water",
+        "generacion": "2",
+        "ataque": "75",
+        "defensa": "80"
+    },
+    {
+        "nombre": "Wobbuffet",
+        "tipo": "Psychic",
+        "generacion": "2",
+        "ataque": "33",
+        "defensa": "58"
+    },
+    {
+        "nombre": "Pineco",
+        "tipo": "Bug",
+        "generacion": "2",
+        "ataque": "65",
+        "defensa": "90"
+    },
+    {
+        "nombre": "SteelixMega Steelix",
+        "tipo": "Steel",
+        "generacion": "2",
+        "ataque": "125",
+        "defensa": "230"
+    },
+    {
+        "nombre": "Granbull",
+        "tipo": "Fairy",
+        "generacion": "2",
+        "ataque": "120",
+        "defensa": "75"
+    },
+    {
+        "nombre": "Shuckle",
+        "tipo": "Bug",
+        "generacion": "2",
+        "ataque": "10",
+        "defensa": "230"
+    },
+    {
+        "nombre": "Heracross",
+        "tipo": "Bug",
+        "generacion": "2",
+        "ataque": "125",
+        "defensa": "75"
+    },
+    {
+        "nombre": "Ursaring",
+        "tipo": "Normal",
+        "generacion": "2",
+        "ataque": "130",
+        "defensa": "75"
+    },
+    {
+        "nombre": "Piloswine",
+        "tipo": "Ice",
+        "generacion": "2",
+        "ataque": "100",
+        "defensa": "80"
+    },
+    {
+        "nombre": "Corsola",
+        "tipo": "Water",
+        "generacion": "2",
+        "ataque": "55",
+        "defensa": "85"
+    },
+    {
+        "nombre": "Octillery",
+        "tipo": "Water",
+        "generacion": "2",
+        "ataque": "105",
+        "defensa": "75"
+    },
+    {
+        "nombre": "Mantine",
+        "tipo": "Water",
+        "generacion": "2",
+        "ataque": "40",
+        "defensa": "70"
+    },
+    {
+        "nombre": "Porygon2",
+        "tipo": "Normal",
+        "generacion": "2",
+        "ataque": "80",
+        "defensa": "90"
+    },
+    {
+        "nombre": "Smeargle",
+        "tipo": "Normal",
+        "generacion": "2",
+        "ataque": "20",
+        "defensa": "35"
+    },
+    {
+        "nombre": "Entei",
+        "tipo": "Fire",
+        "generacion": "2",
+        "ataque": "115",
+        "defensa": "85"
+    },
+    {
+        "nombre": "Ho-oh",
+        "tipo": "Fire",
+        "generacion": "2",
+        "ataque": "130",
+        "defensa": "90"
+    }
+]
